@@ -1,0 +1,3 @@
+﻿아 한글이라니
+english also should 
+과연 인코딩이라니?
